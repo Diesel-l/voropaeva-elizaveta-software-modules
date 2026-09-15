@@ -1,4 +1,4 @@
-<img width="574" height="585" alt="image" src="https://github.com/user-attachments/assets/2c9eec5f-3c03-415f-bc27-ef51b9be7b84" />О проекте
+﻿<img width="574" height="585" alt="image" src="https://github.com/user-attachments/assets/2c9eec5f-3c03-415f-bc27-ef51b9be7b84" />О проекте
 
 
 
@@ -28,3 +28,4 @@
 
 Лабораторная работа находится в разработке.
 
+В главных ролях Воропаева Елизавета Юрьевна
